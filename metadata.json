@@ -1,0 +1,6 @@
+{
+  "name": "Utah Green Grants",
+  "description": "Track Utah clean energy grants, query live program websites, and run AI eligibility gap analysis for small businesses.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
